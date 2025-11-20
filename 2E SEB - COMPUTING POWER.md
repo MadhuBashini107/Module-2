@@ -21,8 +21,16 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-```
+```python
+x=int(input())
+y=int(input())
+p= pow(x,y)
+print(f"Power of the given number is: {p}")
 ```
 ### OUTPUT
 
+<img width="1255" height="313" alt="image" src="https://github.com/user-attachments/assets/c3f4bcdd-92a9-4c9a-8c37-8be52df550df" />
+
+
 ### RESULT
+Thus a Python program to compute the power of a given number using an appropriate built-in function was executed and implemented successfully.
